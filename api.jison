@@ -33,7 +33,7 @@
     }
   ],
 
-[
+"Trips_data": [
   {
     "id": "m1",
     "categories": ["c1"],
